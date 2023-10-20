@@ -3,7 +3,7 @@
 function Aboutus() {
   return (
     <div className='about-link'>
-        Abhishek
+        A & A
     </div>
   )
 }
